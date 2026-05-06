@@ -13,6 +13,7 @@ LeetCode 문제 풀이
 | [0620-not-boring-movies](https://github.com/Dkepffl/LeetHub/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Dkepffl/LeetHub/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Dkepffl/LeetHub/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Dkepffl/LeetHub/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Dkepffl/LeetHub/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/Dkepffl/LeetHub/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Dkepffl/LeetHub/tree/main/1251-average-selling-price/) | Easy |
