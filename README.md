@@ -24,4 +24,5 @@ LeetCode 문제 풀이
 | [1683-invalid-tweets](https://github.com/Dkepffl/LeetHub/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Dkepffl/LeetHub/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Dkepffl/LeetHub/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dkepffl/LeetHub/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
